@@ -28,7 +28,7 @@ La suma de los 100 numeros siguientes a 3 es: 5350
 
 # def diecinueve():
 # primero ponemos la tasa de cambio, luego pedimos ingresar la cantidad, le damos el valor al dolar de los euros multipl9icado por la tasa de cambio
-# leugo imprimimos cuantos euros equivalen a cuantos dolares (con un setprecision)
+# luego imprimimos cuantos euros equivalen a cuantos dolares (con un setprecision)
 
     tasa_cambio = 1.1 
     euros = float(input("Ingrese la cantidad en euros: "))
