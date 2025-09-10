@@ -1,3 +1,4 @@
+# autor: Sergio Alejandro Vazquez Pineda
 # ejercicios-estructuras-de-control-poo
 
 
